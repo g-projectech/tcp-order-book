@@ -51,4 +51,6 @@ Once the connection is established, you can type:
 
 ---
 
+> **Context:** Developed as an independent project for a Computer Networks course, exploring low-level socket communication and multithreading.
+>
 > **Note:** Stock prices are hardcoded in memory and fluctuate randomly. No external APIs or web requests are used.
